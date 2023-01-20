@@ -1,0 +1,10 @@
+{
+  "name": "improved-carnival",
+  "version": "0.0.1",
+  "description": "Custom daraja middleware",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
